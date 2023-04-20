@@ -1,0 +1,55 @@
+* {
+    font-family: serif;
+}
+
+
+.header a {
+    color: rgb(88, 88, 255)
+}
+
+.article {
+    border-bottom: 1px solid black;
+}
+
+.arial {
+    font-family: Arial;
+}
+
+.monospace {
+    font-family: monospace;
+}
+
+.cred {
+    color: red;
+}
+
+.cblue {
+    color: blue;
+}
+
+.cgreen {
+    color: green;
+}
+
+.bcred {
+    background-color: red;
+}
+
+.bcblue {
+    background-color: blue;
+}
+
+.bcgreen {
+    background-color: green;
+}
+.footer {
+    text-align: center;
+}
+
+.footer .mail {
+    color: rgb(0, 162, 255);
+}
+
+.footer a {
+    color: purple;
+}
